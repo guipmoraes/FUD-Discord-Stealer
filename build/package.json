@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@primno/dpapi": "^1.1.2",
-    "adm-zip": "^0.5.10",
+    "adm-zip": "^0.5.15",
     "axios": "^1.4.0",
     "base-64": "^1.0.0",
     "crypto": "^1.0.1",
